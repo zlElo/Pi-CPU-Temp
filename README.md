@@ -16,10 +16,12 @@ Pi-CPU-Temp will start a simple localhost server on your raspberry pi, where a h
 
 What do you have to install:
 
+Install Gpiozero to read out the Temperature
 ```
 pip install gpiozero
 ```
 
+Install flask to runa localhost server
 ```
 pip install flask
 ```
