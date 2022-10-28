@@ -14,7 +14,7 @@ Pi-CPU-Temp will start a simple localhost server on your raspberry pi, where a h
 
 -----------------------------------------------------------------------------
 
-What do you have to install:
+**What do you have to install:**
 
 Install Gpiozero to read out the Temperature
 ```
