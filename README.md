@@ -8,6 +8,18 @@ Pi-CPU-Temp will start a simple localhost server on your raspberry pi, where a h
 
 -----------------------------------------------------------------------------
 
-extra Libarys: gpiozero, flask
-lines of code (Python + html): 37
-Programming languages: Python, HTML, (CSS (in HTML))
+- extra Libarys: gpiozero, flask
+- lines of code (Python + html): 37
+- Programming languages: Python, HTML, (CSS (in HTML))
+
+-----------------------------------------------------------------------------
+
+What do you have to install:
+
+"""
+pip install gpiozero
+"""
+
+"""
+pip install flask
+"""
