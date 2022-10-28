@@ -16,10 +16,10 @@ Pi-CPU-Temp will start a simple localhost server on your raspberry pi, where a h
 
 What do you have to install:
 
-""""
+```
 pip install gpiozero
-""""
+```
 
-""""
+```
 pip install flask
-""""
+```
